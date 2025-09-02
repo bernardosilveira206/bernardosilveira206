@@ -4,7 +4,7 @@
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
 <h4>Eu sou</h4> 
-<h1 align="center">Seu nome </h1>
+<h1 align="center">BERNARDO SILVEIRA </h1>
   
 
 <!---APRESENTAÇÃO--->  
@@ -53,3 +53,4 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
