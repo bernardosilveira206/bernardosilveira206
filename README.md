@@ -1,5 +1,5 @@
 <!---ESTE ARQUIVO É PARA CONFIGURAR SEU PERFIL DO GITHUB, PREENCHA COM SEUS DADOS. Para que ele seja visto como seu perfil, é preciso criar um repositório público com o seu nome de usuário e salvar com o nome README.md--->
-<!---SEUNOME--->
+<!---BERNARDO SILVEIRA--->
 <div dsplay="inline-block">
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
@@ -9,12 +9,12 @@ Bem vindos ao meu resposítório Github!
 
 <!---APRESENTAÇÃO--->  
 <div display="block">
-<p align="center">‍- 🔭 Atualmente estou trabalhando em ...</p>
-<p align="center">- 🌱 Atualmente estou aprendendo ...</p>
-<p align="center">- 👯 Estou procurando colaborar em ...</p>
-<p align="center">- 🤔 Estou procurando ajuda com ...</p>
-<p align="left">- 💬 Pergunte-me sobre ...</a>
-<p align="left">- ⚡ Curiosidade: ...</p>
+<p align="center">‍- 🔭 Atualmente estou trabalhando em back-end Python</p>
+<p align="center">- 🌱 Atualmente estou aprendendo python</p>
+<p align="center">- 👯 Estou procurando colaborar em projetos</p>
+<p align="center">- 🤔 Estou procurando ajuda com projetos de colaboração</p>
+<p align="left">- 💬 Pergunte-me sobre python </a>
+<p align="left">- ⚡ Curiosidade: futuro dev </p>
 </div>
   
 <br>  
@@ -51,4 +51,5 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 </div>
