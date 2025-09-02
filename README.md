@@ -11,6 +11,9 @@ Bem vindos ao meu resposítório Github!
 
 <!---APRESENTAÇÃO--->  
 <div display="block">
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 <p align="center">‍- 🔭 Atualmente estou trabalhando em back-end Python</p>
 <p align="center">- 🌱 Atualmente estou aprendendo python</p>
 <p align="center">- 👯 Estou procurando colaborar em projetos</p>
@@ -46,6 +49,7 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
 
 
 
